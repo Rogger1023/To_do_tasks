@@ -13,7 +13,7 @@ Funcionalidades do projeto:
 Exemplo de Tasks<br>
 <img src="./public/exemplo_task1.png" alt="Exemplo de task"><br>
 Exemplo da barra de progresso dinâmica
-<img src="./public/exemplo_task2.png" alt="Exemplo de barra de progresso"<br>
+<img src="./public/exemplo_task2.png" alt="Exemplo de barra de progresso"><br>
 
 ## Project setup
 ```
