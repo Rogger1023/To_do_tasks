@@ -10,10 +10,10 @@ Funcionalidades do projeto:
 
 ## Exemplo da tela funcional
 
-<h1>Exemplo de Tasks</h1><br>
+Exemplo de Tasks<br>
 <img src="./public/exemplo_task1.png" alt="Exemplo de task"><br>
-<h1>Exemplo da barra de progresso dinâmica</h1>
-<img src="./public/exemplo_task2.png" alt="Exemplo de barra de progresso"
+Exemplo da barra de progresso dinâmica
+<img src="./public/exemplo_task2.png" alt="Exemplo de barra de progresso"<br>
 
 ## Project setup
 ```
@@ -24,16 +24,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
